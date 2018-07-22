@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  DevicesAndCommandsSwift
+//  DevicesAndCommands
 //
 //  Created by Marcen, Rafael on 7/21/18.
 //  Copyright © 2018 arafo. All rights reserved.
